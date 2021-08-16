@@ -1,2 +1,2 @@
 # MeorCoRetailManager
-A Retail Mgmt Solution
+A Retail Mgmt Solution by MeorZ Enterprise
